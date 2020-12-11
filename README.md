@@ -22,7 +22,7 @@ Trịnh Gia Bảo - Student1275081 - [baotrinh11121@gmail.com]
 
 ====================================
 
-eProject documentation at: 
+eProject documentation at: https://github.com/Thangpro2010/News_Reporter_G5/tree/main/document
 
 ====================================
 
